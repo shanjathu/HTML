@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form>
+first name :<br>
+<in put type="text"name ="first name" value ="jathu">
+<br>
+<form>
+last name ;<br>
+<in put type="text"name=
